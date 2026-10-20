@@ -307,6 +307,6 @@ Released under the [MIT License](LICENSE). See `LICENSE` for details.
 **Havoc** · Team ID `VTU-QFF-HC-0110` · Tier `Both`
 · Built with ⚛️ Qiskit for the VTU-QFF Hackathon
 
-[⬆ Back to Top](#Havoc)
+[⬆ Back to Top](#havoc)
 
 </div>
